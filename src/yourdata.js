@@ -115,7 +115,7 @@ export default {
   aboutParaOne:
   "i am a web developer located in Ghana, i enjoy writing code and building products",
   aboutParaTwo:
-  " when i'm not coding, i enjoy video games, anime, music and spending time with my 3 dogs and a cat",
+  " when i'm not coding, i enjoy video games, anime, music and spending time with my 2 dogs and a cat",
   aboutParaThree:
   "",
   aboutImage:
